@@ -7,9 +7,6 @@
 <img src="https://img.shields.io/badge/python--docx-Word%20Merger-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/github/license/yourusername/MergiO?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/yourusername/MergiO?style=for-the-badge"/>
-<img src="https://img.shields.io/github/forks/yourusername/MergiO?style=for-the-badge"/>
 
 # 📑 Merge Documents with Ease
 
